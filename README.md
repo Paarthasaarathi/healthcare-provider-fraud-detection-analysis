@@ -8,5 +8,5 @@ Health insurance companies provide coverage for medical expenses to the policy h
 Insurance companies are forced to provide benefits for fake claims unknowingly and face many problems in providing benefits to real claims and also those companies are heavily impacted due these bad practices. This has become a serious issue and insurance providers have started finding ways to detect whether the claim is fraud or not. The goal of this case study is to accurately predict claims into fraudulent or real claims which will save a very huge amount of money from frauds and help those in real need.
 
 ## Deployment of model in heroku 
-https://healthcare-prediction.herokuapp.com/
+https://healthcare-prediction.herokuapp.com/ <br>
 check here for live implementation: https://youtu.be/l-9Ko7wbIwk
